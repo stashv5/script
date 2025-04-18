@@ -1,4 +1,4 @@
-token = "MTI5NzQ5Nzk0ODczMjUyNjYzMw.GjRR8z.v2RArdbKYMMFmhOofmM783PMgJSALhO1WeXa9A"
+token = "MTI5NzQ5Nzk0ODczMjUyNjYzMw.GmEI96.qI4yrLOk_idaI8osznqhJry0DWuX6R8VhVrrgE"
 channelId = "1362392300893896867"
 if not game:IsLoaded() then
 	game.Loaded:Wait() -- Wait for game to load
